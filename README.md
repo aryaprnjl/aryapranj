@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, pleased to meet you.
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvaraya%2Fpvarya&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+
+| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pvarya&show_icons=true&theme=tokyonight) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvarya&theme=tokyonight) |
+| -- | -- |
 
 <!--
 **pvarya/pvarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
