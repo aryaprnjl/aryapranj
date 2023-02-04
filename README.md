@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarya&layout=compact" alt="animated" />
 </p>
 
-| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pvarya&show_icons=true) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvarya) |
+| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pvarya&theme=cobalt&show_icons=true) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvarya) |
 | -- | -- |
 
 <!--
