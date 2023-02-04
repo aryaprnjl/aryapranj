@@ -6,7 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvarya&theme=tokyonight&layout=compact" alt="animated" />
 </p>
 
-![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pvarya&show_icons=true&theme=tokyonight) ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvarya&theme=tokyonight)
+| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pvarya&show_icons=true&theme=tokyonight) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pvarya&theme=tokyonight) |
+| -- | -- |
 
 <!--
 **pvarya/pvarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
