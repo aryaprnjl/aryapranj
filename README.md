@@ -3,7 +3,7 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvaraya%2Faryapranj&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryapranj&layout=compact" alt="animated" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryapranj&layout=compact" alt="animated" />
 </p>
 
 | ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aryapranj&show_icons=true) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryapranj) |
