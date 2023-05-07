@@ -2,7 +2,7 @@
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvaraya%2Faryaprnjl&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 
-| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aryaprnjl&show_icons=true) | ![Pranjal Arya's GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaprnjl&layout=compact) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryaprnjl) |
+| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aryaprnjl&show_icons=true) | ![Pranjal Arya's GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaprnjl) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryaprnjl) |
 | -- | -- | -- |
 
 <!--
