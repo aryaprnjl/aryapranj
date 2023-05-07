@@ -1,12 +1,12 @@
 ### Hi there 👋, pleased to meet you.
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvaraya%2Faryapranj&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvaraya%2Faryaprnjl&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 
-| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aryapranj&show_icons=true) | ![Pranjal Arya's GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryapranj&layout=compact) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryapranj) |
+| ![Pranjal Arya's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aryaprnjl&show_icons=true) | ![Pranjal Arya's GitHub Streak](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryaprnjl&layout=compact) | ![Pranjal Arya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryaprnjl) |
 | -- | -- | -- |
 
 <!--
-**aryapranj/aryapranj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aryaprnjl/aryaprnjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
